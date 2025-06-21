@@ -10,6 +10,7 @@
 - [Crowd Pleasers](./crowd-pleasers.md)
   - [Fried Rice](./crowd-pleasers/fried-rice.md)
   - [Roasted Potatoes](./crowd-pleasers/roasted-potatoes.md)
+- [Struggle Meals](./struggle-meals.md)
 - [Vetted Recipe List](./vetted-recipe-list.md)
 - [Recipies I Want to Try](./recipies-i-want-to-try.md)
 - [Useful Links](./useful-links.md)
